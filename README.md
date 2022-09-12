@@ -1,5 +1,9 @@
 # KPI-Analysis-Dashboard
-KPI Analysis Dashboard shows visualization related to the Key Performing Indices (KPIs) for a company. 
+The KPI Analysis Dashboard shows visualization related to the Key Performing Indices (KPIs) for a company. The Superstore dataset used is publicly available. 
+
+Tracking KPIs on a day-to-day basis is an important task in Business Intelligence field. KPIs can help organizations derive important insights about their products/services that can further be used to optimize their sales or business strategies. 
+
+The purpose of this KPI dahsboard is the same. It helps companies keep track of their sales according to locations, categories, audiences, etc.
 
 The dataset can be used to extrapolate numbers and visualize them using Tableau. 
 
